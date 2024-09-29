@@ -22,3 +22,24 @@ or
 -> ''' Multi Line Comment'''
 
 > ERROR1: The error you're encountering suggests that Python is trying to use your script file named requests.py instead of the actual requests library. When you name your script the same as a module, it can lead to conflicts.
+
+> A variable is a name given to a memory location in a program.
+- variables: container to store a value
+- keywords: reserved words in python and cannot be used to name a variable
+- identifiers: class/function/variable name  
+
+> Types of Data Types in Python:
+- Integers
+- Floating Point Numbers
+- String
+- Boolean
+- None  
+
+> Python is a fantastic language that automatically identifies the tyoe of data for us.  
+
+> Rules of defining a variable name(also applies to other identifiers)
+- A variable name CAN contain alphabets, digits and underscores
+- A variable name CAN only start with an alphabet or underscore
+- A variable name CANNOT start with a digit
+- No white space is allowed to be used inside a variable name:
+- Eg.: my_name, isNegative, integer_1, _integer2

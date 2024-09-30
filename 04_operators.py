@@ -24,4 +24,4 @@ print(f"int_a = {int_a} \nint_b = {int_b}")
 int_c = 10
 int_d = 11
 print(int_c > int_d)
-'''Will return False as 10 < 11 but the condition to check is if(int_c > int_d)'''
+'''Will return False as 10 < 11 but the condition to check is if(int_c > int_d) i.e. if 10 > 11'''

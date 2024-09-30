@@ -18,7 +18,7 @@ int_b += 10
 print(f"int_a = {int_a} \nint_b = {int_b}")
 
 
-# Comparison Operators -> Return Type is always BOOLEAN
+# Comparison Operators --> Return Type is always BOOLEAN
 
 '''Example 1'''
 int_c = 10

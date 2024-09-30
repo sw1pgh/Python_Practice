@@ -42,4 +42,12 @@ or
 - A variable name CAN only start with an alphabet or underscore
 - A variable name CANNOT start with a digit
 - No white space is allowed to be used inside a variable name:
-- Eg.: my_name, isNegative, integer_1, _integer2
+- Eg.: my_name, isNegative, integer_1, _integer2  
+
+> Operators in Python:
+- Arithmetic Operators: +,-,*,/ etc.
+- Assignment Operators: =,+=,-=, etc.
+- Comparison operators: ==,>,>=,<,!= etc.
+- Logical Operators: and, or, not.  
+
+<img src="Log_Op_Logic.png" alt="Logical Operators Logic" style="height: 300px; width:550px;"/>

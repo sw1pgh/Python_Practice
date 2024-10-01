@@ -8,4 +8,8 @@ int_a = int(input("Please enter a digit: "))
 '''
 
 summation = int_a + int_b
+
+# Since by default the input() function takes string as input we need type casting for the summation to take place
+# 
+
 print(f"{int_a} + {int_b} = {summation}")

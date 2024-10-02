@@ -60,7 +60,7 @@ or
 - Comparison operators: ==,>,>=,<,!= etc.
 - Logical Operators: and, or, not.  
 
-<img src="Log_Op_Logic.png" alt="Logical Operators Logic" style="height: 300px; width:550px;"/><br />
+<img src="Images/Log_Op_Logic.png" alt="Logical Operators Logic" style="height: 300px; width:550px;"/><br />
 
 > TYPE() function and TYPECASTING
 - type() function is used to find the data type of a given variable in python
@@ -72,3 +72,23 @@ or
 - This function allows the user to take input from the keyboard as a string
 - It is important to note that the output of input is always a string(even if integer or floating point number is entered)  
 <br />
+
+> STRINGS:
+- String is a data type in Python
+- String is a sequence of characters enclosed in quotes
+- Python strings are "immutable" which means they cannot be changed after they are created (Java strings also use this immutable style). Since strings can't be changed, we construct *new* strings as we go to represent computed values.
+- We can primarily write a string in three(3) ways:
+    - Single quoted string
+    - Double quoted string
+    - Triple quoted string
+
+<br />   
+
+> String Slicing: 
+- A String in Python can be sliced for getting part of strings
+- For eg.: name = "Swap" => Length=4 | Index = [0 1 2 3]
+- The index in a string starts from 0 ends at (length - 1) in Python.
+- In order to slice a string, we can use the following syntax:  
+
+<img src="Images/String_Slicing_Syntax.png" alt="Logical Operators Logic" style="height: 150px; width:550px;"/><br />  
+

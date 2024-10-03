@@ -92,3 +92,4 @@ or
 
 <img src="Images/String_Slicing_Syntax.png" alt="Logical Operators Logic" style="height: 150px; width:550px;"/><br />  
 
+- Negative indeces can also be used. -1 corresponds to the (length - 1) index, -2 to (length - 2)

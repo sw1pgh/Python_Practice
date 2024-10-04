@@ -93,3 +93,16 @@ or
 <img src="Images/String_Slicing_Syntax.png" alt="Logical Operators Logic" style="height: 150px; width:550px;"/><br />  
 
 - Negative indeces can also be used. -1 corresponds to the (length - 1) index, -2 to (length - 2)
+- Slicing with Skip Value:
+    - We can provide a skip value as part of our slice like this:
+    - word = "amazing"
+    - word[1 : 6 : 2] # "mzn" --> Here 1st to 6th index is the value and we have to skip it by the third value = 2, so take every second word
+    - Other advanced slicing techniques are mentioned in: Learning Codes with Indexing/10_negative_slicing.py
+
+> String Functions:
+- len(String): This function returns the length of the string. Return type = Integer.
+- String.endswith("any_substring_or_letter"): This function checks whether a particular string ends with a particular letter/letters. Return type = Boolean.
+- String.count("c"): This function counts the occurence of any particular letter in a string. Return type = Integer.
+- String.capitalize(): This function capitalize the FIRST CHARACTER of a given string. Return type = String.
+- String.upper(): Converts an string to upper case. Return type = String.
+- String.lower(): Converts an entire string to lower case. Return type = String.

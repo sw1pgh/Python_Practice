@@ -106,3 +106,5 @@ or
 - String.capitalize(): This function capitalize the FIRST CHARACTER of a given string. Return type = String.
 - String.upper(): Converts an string to upper case. Return type = String.
 - String.lower(): Converts an entire string to lower case. Return type = String.
+- String.title(): Capitalizes the first letter of each word in the String. Return type = String.
+- String.strip(): Removes leading and trailing whitespaces from a String. Return type = String.

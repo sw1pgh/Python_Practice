@@ -110,3 +110,11 @@ or
 - String.strip(): Removes leading and trailing whitespaces from a String. Return type = String.
 - String.lstrip(): Removes leading whitespace. Return type = String.
 - String.rstrip(): Removes trailing whitespace. Return type = String.
+- String.find(word): This function finds a word and returns the index of the first occurence of that word in that String. Return type = Integer.
+- String.replace(oldword, newword): Replaces an entire word in a String with a new word. Return type = String.
+
+> Escape Sequence Characters:
+- Sequence of characters after backslash '\' is/are known as Escape Sequence Characters
+- They comprise of more than one character but represent one character when used within the Strings.  
+
+<img src="Images/Escpae_Sequence.png" alt="Logical Operators Logic" style="height: 150px; width:550px;"/><br />

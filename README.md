@@ -108,3 +108,5 @@ or
 - String.lower(): Converts an entire string to lower case. Return type = String.
 - String.title(): Capitalizes the first letter of each word in the String. Return type = String.
 - String.strip(): Removes leading and trailing whitespaces from a String. Return type = String.
+- String.lstrip(): Removes leading whitespace. Return type = String.
+- String.rstrip(): Removes trailing whitespace. Return type = String.

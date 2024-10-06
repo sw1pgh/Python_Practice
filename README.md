@@ -99,6 +99,8 @@ or
     - word[1 : 6 : 2] # "mzn" --> Here 1st to 6th index is the value and we have to skip it by the third value = 2, so take every second word
     - Other advanced slicing techniques are mentioned in: Learning Codes with Indexing/10_negative_slicing.py
 
+<br />   
+
 > String Functions:
 - len(String): This function returns the length of the string. Return type = Integer.
 - String.endswith("any_substring_or_letter"): This function checks whether a particular string ends with a particular letter/letters. Return type = Boolean.
@@ -113,8 +115,31 @@ or
 - String.find(word): This function finds a word and returns the index of the first occurence of that word in that String. Return type = Integer.
 - String.replace(oldword, newword): Replaces an entire word in a String with a new word. Return type = String.
 
+<br />   
+
 > Escape Sequence Characters:
 - Sequence of characters after backslash '\' is/are known as Escape Sequence Characters
 - They comprise of more than one character but represent one character when used within the Strings.  
 
-<img src="Images/Escpae_Sequence.png" alt="Logical Operators Logic" style="height: 150px; width:550px;"/><br />
+<img src="Images/Escpae_Sequence.png" alt="Logical Operators Logic" style="height: 150px; width:550px;"/><br />  
+
+> List and Tuples:
+- Python Lists are containers to store a set of values of any data type
+- example: friends = ["Hello", 18, true, "Swap.GG"]
+
+<br />   
+
+> List Indexing:
+- A list can be indexed and sliced just like a String via using nth indexes.
+
+<br />   
+
+> List Methods:
+- Consider the following List:
+    - L1 = [1,8,7,2,21,15]
+        - L1.sort(): updates the list to [1,2,7,8,15,21]
+        - L1.reverse(): updates the list to [15,21,2,7,8,1]
+        - L1.append(8): adds '8' at the end of the list
+        - L1.insert(3,8): This will add '8' at the 3rd index
+        - L1.pop(2): Will delete element at 2nd index and return it's value
+        - L1.remove(21): will remove '21' from the list

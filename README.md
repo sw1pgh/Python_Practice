@@ -143,3 +143,19 @@ or
         - L1.insert(3,8): This will add '8' at the 3rd index
         - L1.pop(2): Will delete element at 2nd index and return it's value
         - L1.remove(21): will remove '21' from the list
+
+> Tuples:
+- A tuple is a immutable data type in Python
+    - a = () # Empty Tuple
+    - a = (1,) # Tuple with one one element needs a comma
+    - a = (1,7,2) # Tuple with more than one element
+- Tuple methods:
+    - Consider the following Tuple: a = (1,7,2)
+    - a.count(1) ==> Returns the number of times '1' occurs in the tuple
+    - a.index(1) ==> Returns the first occurence of '1' in a
+    - tuple_a + tuple_b -> Concatenation: Joins two tuples to form a single one
+    - (Membership) -> print(1 in a) ==> True # To check whether a no/element is present in a tuple or not
+    - len() ==> Length of a tuple
+    - min() & max() ==> Minimum and Maximum values in a Tuple
+    - Slicing ==> Returns a New Tuple after slicing
+    - Unpacking -> b , c , d = a -> print(a, b, c) ==> 1 7 2

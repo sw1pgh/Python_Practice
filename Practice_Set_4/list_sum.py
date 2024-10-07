@@ -1,4 +1,4 @@
-# Python program to take desired numbers as inputs in a list and then sum and print the value
+# Python program to take desired numbers as inputs in a list and then sum all the numbers and print the value
 
 def sum_numbers_in_list():
     limit = 0

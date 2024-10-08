@@ -1,4 +1,4 @@
-# Python_Practice
+o# Python_Practice
 This Repository contains all the codes that I will be learning and writing while learning python simultaneously. Along with this, it will also be containing any projects that I believe would make sense doing.  
 <br />
 
@@ -159,3 +159,32 @@ or
     - min() & max() ==> Minimum and Maximum values in a Tuple
     - Slicing ==> Returns a New Tuple after slicing
     - Unpacking -> b , c , d = a -> print(a, b, c) ==> 1 7 2
+
+<br />   
+
+> Dictionary & Sets:
+- Disctionary is a collection of key value pairs
+- Syntax:
+    - a = {"key":"value",
+    "swap":"gg",
+    "marks":100,
+    "list":[1,2,9]
+    }
+    - a[key] ==> Prints the Value of the key
+    - a[list] ==> Prints [1,2,9]
+- Properties of Python Dictionaries:
+    - It is unordered
+    - It is mutable
+    - It is indexed
+    - Cannot contain duplicate keys
+
+<br />  
+
+> Dictionary Methods:
+- a.items() ==> Returns a set of (key,value) tuples
+- a.keys() ==> Returns a list containing dictionary key's
+- a.update() ==> Updates the dictionary with supplied key-value pairs
+- a.get() ==> Returns the values of the specified keys  
+ 
+- More methods are available on https://docs.python.org
+

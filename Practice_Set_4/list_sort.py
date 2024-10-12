@@ -2,7 +2,7 @@
 
 def enter_student_marks():
     marks = []
-    for i in range(0, 5):  # Changed to 6 to get marks for 6 students
+    for i in range(6):  # Changed to 6 to get marks for 6 students
         mark = float(input(f"Enter #{i + 1} student's marks: "))  # Convert input to float
         marks.append(mark)  # Append the mark directly to the list
     

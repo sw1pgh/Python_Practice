@@ -11,6 +11,7 @@ print(f"{marks}")
 print(f"{marks.get('D')}")
 
 '''
+
 Difference between:
 1. print(marks.get('A'))  and,
 2. print(marks['A'])

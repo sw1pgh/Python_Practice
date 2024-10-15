@@ -194,3 +194,18 @@ or
 1. print(marks.get('A'))  and,
 2. print(marks['A'])
 - The main difference is that if 'A' does NOT exist in the dictionary, '1' returns 'None' as Output. However, '2' returns Error in the Code.
+
+<br />  
+
+> SETS
+- Set is a collection of non-repetitive elements
+- s=set()  -> No repetition allowed
+- s.add(1)
+- s.add(2) -> or s = {1,2}  
+- If you are a programming beginner without much knowledge of mathematical operations on sets, you can simply look at sets in python as data types containing unique values  
+
+> Properties of Sets:
+- Sets are unordered
+- Sets are unindexed
+- There is no way to change items in a set
+- Sets cannot contain duplicate values

@@ -205,7 +205,10 @@ or
 - If you are a programming beginner without much knowledge of mathematical operations on sets, you can simply look at sets in python as data types containing unique values  
 
 > Properties of Sets:
-- Sets are unordered
-- Sets are unindexed
+- Sets are unordered ==> Set items are not in order
+- Sets are unindexed ==> Cannot access set elements by index
 - There is no way to change items in a set
-- Sets cannot contain duplicate values
+- Sets cannot contain duplicate values  
+
+> Operations on Sets:
+- Covered in Code with Example

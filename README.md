@@ -211,4 +211,11 @@ or
 - Sets cannot contain duplicate values  
 
 > Operations on Sets:
-- Covered in Code with Example
+- Covered in Code with Example  
+
+<br/>  
+
+> CONDITIONAL EXPRESSIONS:
+- Sometimes we want to do one thing or the other if a certain condition is met.
+- In Python programming too, we must be able to execute instructions on condition(s) being met
+- This is what conditions are for

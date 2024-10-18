@@ -7,6 +7,7 @@ class Trippy_Dictionary:
         
         final_dictionary = {}
         
+        # Taking input of 4 sets of data
         for i in range (0,4):
             name = input("Please enter your name: ")
             language = input("Please enter your favourite language: ")

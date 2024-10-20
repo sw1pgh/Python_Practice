@@ -221,3 +221,8 @@ or
 - This is what conditions are for.
 - In Python, we mainly use [if, elif and else]
 - By default if the 'if' condition fails, the control moves to the 'else' condition
+- Comparison/Relational and Logical Operators are used to build the logic inside conditional expressions
+- Not(!) is is used to reverse the logic suppose a != 5 (means if a is NOT equals to 5)
+- elif in Python means else if similar to other programming languages
+- There can be multiple elif statements
+- Last else executes only if all all the conditions inside elif fails

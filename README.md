@@ -218,4 +218,6 @@ or
 > CONDITIONAL EXPRESSIONS:
 - Sometimes we want to do one thing or the other if a certain condition is met.
 - In Python programming too, we must be able to execute instructions on condition(s) being met
-- This is what conditions are for
+- This is what conditions are for.
+- In Python, we mainly use [if, elif and else]
+- By default if the 'if' condition fails, the control moves to the 'else' condition

@@ -9,14 +9,14 @@ class Driving_License:
     def license_logic(self):
         age = self.user_age_input()
         
-        if(age >= 18 and age <= 70):
+        if(age > 0 and age >= 18 and age <= 70):
             print(f"You are allowed for a Driving License 🥳!")
         
-        elif(age < 18):
+        elif(age > 0 and age < 18):
             print(f"You are strictly underage!")
             
         else:
-            print(f"We don't think you need it anymore 🙂!")
+            print(f"That is a strange age for a Driving License 🙂!")
             
 if __name__ == "__main__":
     Driving_License().license_logic()

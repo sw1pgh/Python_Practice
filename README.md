@@ -225,4 +225,17 @@ or
 - Not(!) is is used to reverse the logic suppose a != 5 (means if a is NOT equals to 5)
 - elif in Python means else if similar to other programming languages
 - There can be multiple elif statements
-- Last else executes only if all all the conditions inside elif fails
+- Last else executes only if all all the conditions inside elif fails  
+
+<br/>  
+
+> LOOPS IN PYTHON:
+- Sometimes we want to repeat a set of statements in our program. For instance: Print 1 to 1000
+- Loops make it easy for a programmer to tell the computer which set of instructions to repeat and how!
+> Type of Loops in Python:
+- Primarily there are two types of loops in Python-
+    - 'while' loops ==> Syntax: while(condition)
+        - In while loops, the condition is checked first. if it evaluates to true, the body of the loop is executed otherwise not!
+        - If the loop is entered, the process of [condition check and execution] is continued until the condition becomes False.
+        - Note: If the condition never becomes False, **the loop keeps on getting executed infinitely**.
+    - 'for' loops

@@ -248,3 +248,13 @@ or
     - #step_size is usually not used with range()
     - for j in range(0,7):
     - print(j) # Prints 0 to 6
+
+> FOR LOOP WITH ELSE
+- An optional else can be used with a for loop if the code is to be executed when the loop exhausts
+- example in [Learning Codes with Indexing/21_for_else.py]
+
+> THE BREAK STATEMENT
+- 'break' is used to come out of the loop when encountered. It instructs the program to exit the loop whenever break is called.
+
+> THE CONTINUE STATEMENT
+- 'continue' is used to stop the current iteration of the loop and continue with the next one. It instructs the program to 'skip this iteration'

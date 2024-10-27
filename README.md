@@ -242,4 +242,9 @@ or
         - A for loop is used to iterate through a sequence like list, tuple or string[iterables]
 
 > RANGE FUNCTION IN PYTHON
-
+- The range() function in Python is used to generate a sequence of number.
+- We can also specify the start, stop and step-size as follows:
+    - range(start, stop, step_size)
+    - #step_size is usually not used with range()
+    - for j in range(0,7):
+    - print(j) # Prints 0 to 6

@@ -238,4 +238,8 @@ or
         - In while loops, the condition is checked first. if it evaluates to true, the body of the loop is executed otherwise not!
         - If the loop is entered, the process of [condition check and execution] is continued until the condition becomes False.
         - Note: If the condition never becomes False, **the loop keeps on getting executed infinitely**.
-    - 'for' loops
+    - 'for' loops ==> Syntax: for i in range(0 , n):
+        - A for loop is used to iterate through a sequence like list, tuple or string[iterables]
+
+> RANGE FUNCTION IN PYTHON
+

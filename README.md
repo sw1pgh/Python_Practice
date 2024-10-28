@@ -165,11 +165,11 @@ or
 > Dictionary & Sets:
 - Disctionary is a collection of key value pairs
 - Syntax:
-    - a = {"key":"value",
-    "swap":"gg",
-    "marks":100,
-    "list":[1,2,9]
-    }
+    - ```a = {"key":"value",```
+    ```"swap":"gg",```
+    ```"marks":100,```
+    ```"list":[1,2,9]```
+    ```}```
     - a[key] ==> Prints the Value of the key
     - a[list] ==> Prints [1,2,9]
 - Properties of Python Dictionaries:

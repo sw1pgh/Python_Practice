@@ -191,8 +191,8 @@ or
 <br />  
 
 > Difference between:
-1. print(marks.get('A'))  and,
-2. print(marks['A'])
+1. ```print(marks.get('A'))```  and,
+2. ```print(marks['A'])```
 - The main difference is that if 'A' does NOT exist in the dictionary, '1' returns 'None' as Output. However, '2' returns Error in the Code.
 
 <br />  

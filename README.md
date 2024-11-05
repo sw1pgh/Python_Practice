@@ -246,8 +246,8 @@ or
 - We can also specify the start, stop and step-size as follows:
     - range(start, stop, step_size)
     - #step_size is usually not used with range()
-    - for j in range(0,7):
-    - print(j) # Prints 0 to 6
+    - ```for j in range(0,7):```
+    - ```print(j) # Prints 0 to 6```
 
 > FOR LOOP WITH ELSE
 - An optional else can be used with a for loop if the code is to be executed when the loop exhausts
@@ -258,3 +258,9 @@ or
 
 > THE CONTINUE STATEMENT
 - 'continue' is used to stop the current iteration of the loop and continue with the next one. It instructs the program to 'skip this iteration'
+
+> THE PASS STATEMENT
+- 'pass' is a null statement in python
+- It instructs basically to do nothing
+- It can be used with testing frameworks for eg.:
+- ```pytest.pass```

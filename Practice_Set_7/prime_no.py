@@ -1,0 +1,1 @@
+# WAP to find out whether a given number is prime or not

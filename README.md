@@ -3,7 +3,7 @@ This Repository contains all the codes that I will be learning and writing while
 <br />
 
 > Install modules using:
-- pip install -r requirements.txt [Windows]  
+- ```pip install -r requirements.txt``` [Windows]  
 or
 - pip3 install -r requirements.txt [Mac]  
 <br />

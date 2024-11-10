@@ -5,7 +5,7 @@ This Repository contains all the codes that I will be learning and writing while
 > Install modules using:
 - ```pip install -r requirements.txt``` [Windows]  
 or
-- pip3 install -r requirements.txt [Mac]  
+- ```pip3 install -r requirements.txt``` [Mac]  
 <br />
 
 > Module: A module is a file containing code written by someone else(usually) which can be imported and used in our programs  
@@ -19,7 +19,7 @@ or
 - External Modules [Need to be installed using pip/pip3]  
 <br />
 
-> REPL = Read Evaluate Print Loop 
+> ```REPL = Read Evaluate Print Loop``` 
 - Simply go to the terminal and type python/python3, it will open REPL to code  
 <br />
 

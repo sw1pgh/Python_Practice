@@ -55,10 +55,10 @@ or
 <br />  
 
 > Operators in Python:
-- Arithmetic Operators: +,-,*,/ etc.
-- Assignment Operators: =,+=,-=, etc.
-- Comparison operators: ==,>,>=,<,!= etc.
-- Logical Operators: and, or, not.  
+- ```Arithmetic Operators: +,-,*,/ etc.```
+- ```Assignment Operators: =,+=,-=, etc.```
+- ```Comparison operators: ==,>,>=,<,!= etc.```
+- ```Logical Operators: and, or, not.```  
 
 <img src="Images/Log_Op_Logic.png" alt="Logical Operators Logic" style="height: 300px; width:550px;"/><br />
 

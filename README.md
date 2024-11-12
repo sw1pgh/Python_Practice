@@ -102,13 +102,13 @@ or
 <br />   
 
 > String Functions:
-- len(String): This function returns the length of the string. Return type = Integer.
-- String.endswith("any_substring_or_letter"): This function checks whether a particular string ends with a particular letter/letters. Return type = Boolean.
-- String.count("c"): This function counts the occurence of any particular letter in a string. Return type = Integer.
-- String.capitalize(): This function capitalize the FIRST CHARACTER of a given string. Return type = String.
-- String.upper(): Converts an string to upper case. Return type = String.
-- String.lower(): Converts an entire string to lower case. Return type = String.
-- String.title(): Capitalizes the first letter of each word in the String. Return type = String.
+- ```len(String)```: This function returns the length of the string. Return type = Integer.
+- ```String.endswith("any_substring_or_letter")```: This function checks whether a particular string ends with a particular letter/letters. Return type = Boolean.
+- ```String.count("c")```: This function counts the occurence of any particular letter in a string. Return type = Integer.
+- ```String.capitalize()```: This function capitalize the FIRST CHARACTER of a given string. Return type = String.
+- ```String.upper()```: Converts an string to upper case. Return type = String.
+- ```String.lower()```: Converts an entire string to lower case. Return type = String.
+- ```String.title()```: Capitalizes the first letter of each word in the String. Return type = String.
 - String.strip(): Removes leading and trailing whitespaces from a String. Return type = String.
 - String.lstrip(): Removes leading whitespace. Return type = String.
 - String.rstrip(): Removes trailing whitespace. Return type = String.

@@ -109,11 +109,11 @@ or
 - ```String.upper()```: Converts an string to upper case. Return type = String.
 - ```String.lower()```: Converts an entire string to lower case. Return type = String.
 - ```String.title()```: Capitalizes the first letter of each word in the String. Return type = String.
-- String.strip(): Removes leading and trailing whitespaces from a String. Return type = String.
-- String.lstrip(): Removes leading whitespace. Return type = String.
-- String.rstrip(): Removes trailing whitespace. Return type = String.
-- String.find(word): This function finds a word and returns the index of the first occurence of that word in that String. Return type = Integer.
-- String.replace(oldword, newword): Replaces an entire word in a String with a new word. Return type = String.
+- ```String.strip()```: Removes leading and trailing whitespaces from a String. Return type = String.
+- ```String.lstrip()```: Removes leading whitespace. Return type = String.
+- ```String.rstrip()```: Removes trailing whitespace. Return type = String.
+- ```String.find(word)```: This function finds a word and returns the index of the first occurence of that word in that String. Return type = Integer.
+- ```String.replace(oldword, newword)```: Replaces an entire word in a String with a new word. Return type = String.
 
 <br />   
 
@@ -125,7 +125,7 @@ or
 
 > List and Tuples:
 - Python Lists are containers to store a set of values of any data type
-- example: friends = ["Hello", 18, true, "Swap.GG"]
+- example: ```friends = ["Hello", 18, true, "Swap.GG"]```
 
 <br />   
 

@@ -137,10 +137,10 @@ or
 > List Methods:
 - Consider the following List:
     - L1 = [1,8,7,2,21,15]
-        - L1.sort(): updates the list to [1,2,7,8,15,21]
-        - L1.reverse(): updates the list to [15,21,2,7,8,1]
-        - L1.append(8): adds '8' at the end of the list
-        - L1.insert(3,8): This will add '8' at the 3rd index
+        - ```L1.sort()```: updates the list to [1,2,7,8,15,21]
+        - ```L1.reverse()```: updates the list to [15,21,2,7,8,1]
+        - ```L1.append(8)```: adds '8' at the end of the list
+        - ```L1.insert(3,8)```: This will add '8' at the 3rd index
         - L1.pop(2): Will delete element at 2nd index and return it's value
         - L1.remove(21): will remove '21' from the list
 

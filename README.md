@@ -146,9 +146,9 @@ or
 
 > Tuples:
 - A tuple is a immutable data type in Python
-    - a = () # Empty Tuple
-    - a = (1,) # Tuple with one one element needs a comma
-    - a = (1,7,2) # Tuple with more than one element
+    - ```a = ()``` # Empty Tuple
+    - ```a = (1,)``` # Tuple with one one element needs a comma
+    - ```a = (1,7,2)``` # Tuple with more than one element
 - Tuple methods:
     - Consider the following Tuple: a = (1,7,2)
     - a.count(1) ==> Returns the number of times '1' occurs in the tuple

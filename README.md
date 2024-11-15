@@ -181,10 +181,10 @@ or
 <br />  
 
 > Dictionary Methods:
-- a.items() ==> Returns a set of (key,value) tuples
-- a.keys() ==> Returns a list containing dictionary key's
-- a.update() ==> Updates the dictionary with supplied key-value pairs
-- a.get() ==> Returns the values of the specified keys  
+- ```a.items()``` ==> Returns a set of (key,value) tuples
+- ```a.keys()``` ==> Returns a list containing dictionary key's
+- ```a.update()``` ==> Updates the dictionary with supplied key-value pairs
+- ```a.get()``` ==> Returns the values of the specified keys  
  
 - More methods are available on https://docs.python.org
 

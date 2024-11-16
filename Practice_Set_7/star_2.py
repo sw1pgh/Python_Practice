@@ -1,8 +1,10 @@
 # WAP to print the following pattern:
 '''
+
 *
 **
 ***
+
 '''
 
 def star_pattern_two():

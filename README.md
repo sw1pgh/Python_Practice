@@ -199,9 +199,9 @@ or
 
 > SETS
 - Set is a collection of non-repetitive elements
-- s=set()  -> No repetition allowed
-- s.add(1)
-- s.add(2) -> or s = {1,2}  
+- ```s=set()```  -> No repetition allowed
+- ```s.add(1)```
+- ```s.add(2)``` -> or s = {1,2}  
 - If you are a programming beginner without much knowledge of mathematical operations on sets, you can simply look at sets in python as data types containing unique values  
 
 > Properties of Sets:
@@ -219,10 +219,10 @@ or
 - Sometimes we want to do one thing or the other if a certain condition is met.
 - In Python programming too, we must be able to execute instructions on condition(s) being met
 - This is what conditions are for.
-- In Python, we mainly use [if, elif and else]
+- In Python, we mainly use ```[if, elif and else]```
 - By default if the 'if' condition fails, the control moves to the 'else' condition
 - Comparison/Relational and Logical Operators are used to build the logic inside conditional expressions
-- Not(!) is is used to reverse the logic suppose a != 5 (means if a is NOT equals to 5)
+- ```Not(!)``` is is used to reverse the logic suppose a ```!= 5``` (means if a is NOT equals to 5)
 - elif in Python means else if similar to other programming languages
 - There can be multiple elif statements
 - Last else executes only if all all the conditions inside elif fails  
@@ -234,18 +234,18 @@ or
 - Loops make it easy for a programmer to tell the computer which set of instructions to repeat and how!
 > Type of Loops in Python:
 - Primarily there are two types of loops in Python-
-    - 'while' loops ==> Syntax: while(condition)
+    - ```'while'``` loops ==> Syntax: while(condition)
         - In while loops, the condition is checked first. if it evaluates to true, the body of the loop is executed otherwise not!
         - If the loop is entered, the process of [condition check and execution] is continued until the condition becomes False.
         - Note: If the condition never becomes False, **the loop keeps on getting executed infinitely**.
-    - 'for' loops ==> Syntax: for i in range(0 , n):
+    - ``'for'`` loops ==> Syntax: for i in range(0 , n):
         - A for loop is used to iterate through a sequence like list, tuple or string[iterables]
 
 > RANGE FUNCTION IN PYTHON
 - The range() function in Python is used to generate a sequence of number.
 - We can also specify the start, stop and step-size as follows:
-    - range(start, stop, step_size)
-    - #step_size is usually not used with range()
+    - ```range``` (start, stop, step_size)
+    - #step_size is usually not used with ```range()```
     - ```for j in range(0,7):```
     - ```print(j) # Prints 0 to 6```
 
@@ -254,13 +254,13 @@ or
 - example in [Learning Codes with Indexing/21_for_else.py]
 
 > THE BREAK STATEMENT
-- 'break' is used to come out of the loop when encountered. It instructs the program to exit the loop whenever break is called.
+- ```'break'``` is used to come out of the loop when encountered. It instructs the program to exit the loop whenever break is called.
 
 > THE CONTINUE STATEMENT
-- 'continue' is used to stop the current iteration of the loop and continue with the next one. It instructs the program to 'skip this iteration'
+- ```'continue'``` is used to stop the current iteration of the loop and continue with the next one. It instructs the program to 'skip this iteration'
 
 > THE PASS STATEMENT
-- 'pass' is a null statement in python
+- ```'pass'``` is a null statement in python
 - It instructs basically to do nothing
 - It can be used with testing frameworks for eg.:
 - ```pytest.pass```

@@ -263,4 +263,8 @@ or
 - ```'pass'``` is a null statement in python
 - It instructs basically to do nothing
 - It can be used with testing frameworks for eg.:
-- ```pytest.pass```
+- ```pytest.pass```  
+<br/>  
+
+> FUNCTIONS AND RECURSIONS
+- A Function is a group of statements performing a specific task

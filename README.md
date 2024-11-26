@@ -268,3 +268,5 @@ or
 
 > FUNCTIONS AND RECURSIONS
 - A Function is a group of statements performing a specific task
+- When a program gets bigger in size and it's complexity grows, it gets difficult for a coder to keep track on which piece of code is doing what!
+- A single function can be used by a coder in a programmer any number of times

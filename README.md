@@ -269,4 +269,10 @@ or
 > FUNCTIONS AND RECURSIONS
 - A Function is a group of statements performing a specific task
 - When a program gets bigger in size and it's complexity grows, it gets difficult for a coder to keep track on which piece of code is doing what!
-- A single function can be used by a coder in a programmer any number of times
+- A single function can be used by a coder in a programmer any number of times  
+<br/>  
+
+> Example and Syntax of a Function
+- The syntax of a function in Python is as follows:
+- ```def func1():```
+- &emsp;&emsp;&ensp;```print("Hello")```

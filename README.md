@@ -276,3 +276,4 @@ or
 - The syntax of a function in Python is as follows:
 - ```def func1():```
 - &emsp;&emsp;&ensp;```print("Hello")```
+- This function can be called any number of times in the code to print ``Hello``

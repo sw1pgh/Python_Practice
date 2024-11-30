@@ -281,4 +281,9 @@ or
 
 > FUNCTION CALL
 - Whenever we want to call a function, we put the name of the function followed by parantheses as follows:
-- ``func1()`` # This is called the function call
+- ``func1()`` # This is called the function call  
+<br/>  
+
+> FUNCTION DEFINITION
+- The part containing the exact set of instructions which are executed during the fnction call
+- 

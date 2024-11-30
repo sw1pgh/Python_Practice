@@ -285,5 +285,10 @@ or
 <br/>  
 
 > FUNCTION DEFINITION
-- The part containing the exact set of instructions which are executed during the fnction call
-- 
+- The part containing the exact set of instructions which are executed during the fnction call  
+<br/>  
+
+> TYPES OF FUNCTIONS IN PYTHON
+- There are two types of functions in Python:
+    - Built In Functions(Already present in Python),
+    - User Defined Functions(Defined by the User)

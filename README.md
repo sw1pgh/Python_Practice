@@ -297,5 +297,12 @@ or
 <br/>  
 
 > FUNCTIONS WITH ARGUMENTS
-- A function can accept some value(s) it can work with. We can put these values in the paranthesis. Annything written within the paranthesis is known as the Function Parameter.
+- A function can accept some value(s) it can work with. We can put these values in the paranthesis. Annything written within the paranthesis is known as the Function Parameter/Argument.
 - A function can also return some value as shown below:
+    - `def func()`:
+    - &emsp;&emsp;&ensp;`return name`  
+<br/>  
+
+> DEFAULT PARAMETER VALUE
+- We can have a value as a default argument in a function.
+- If we specify `name="Stranger"` in the line containing the function definition, then `Good Day Stranger!` will be printed.

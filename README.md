@@ -291,6 +291,11 @@ or
 > TYPES OF FUNCTIONS IN PYTHON
 - There are two types of functions in Python:
     - Built In Functions(Already present in Python),
-        - eg.: len(), print(), range(), etc. 
+        - eg.: ``len(), print(), range()``, etc. 
     - User Defined Functions(Defined by the User)
-        - The func1() we defined earlier is an example of user defined function
+        - The `func1()` we defined earlier is an example of user defined function  
+<br/>  
+
+> FUNCTIONS WITH ARGUMENTS
+- A function can accept some value(s) it can work with. We can put these values in the paranthesis. Annything written within the paranthesis is known as the Function Parameter.
+- A function can also return some value as shown below:

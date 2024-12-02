@@ -306,4 +306,13 @@ or
 
 > DEFAULT PARAMETER VALUE
 - We can have a value as a default argument in a function.
-- If we specify `name="Stranger"` in the line containing the function definition, then `Good Day Stranger!` will be printed.
+- If we specify `name="Stranger"` in the line containing the function definition, then `Good Day Stranger!` will be printed.  
+<br/>  
+
+> RECURSION
+- Recursion is a function which calls itself
+- It is used to directly use a mathematical formula as a function
+- Example: `factorial(n) = n x factorial(n - 1)`
+- Code is written in: `27_Recursion_ex.py` Program.  
+
+<img src="Images/Recursion.png" alt="Recursion Function(Factorial) Logic" style="height: 500px; width:790px;"/><br />

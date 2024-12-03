@@ -315,4 +315,7 @@ or
 - Example: `factorial(n) = n x factorial(n - 1)`
 - Code is written in: `27_Recursion_ex.py` Program.  
 
-<img src="Images/Recursion.png" alt="Recursion Function(Factorial) Logic" style="height: 500px; width:790px;"/><br />
+<img src="Images/Recursion.png" alt="Recursion Function(Factorial) Logic" style="height: 500px; width:790px;"/><br />  
+
+> Question: How do you prevent a python print() function from printing a new line at the end?
+- Answer: By writing this: `print("Hello World!", end = "")`

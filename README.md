@@ -6,7 +6,7 @@ This Repository contains all the codes that I will be learning and writing while
 > Install modules using:
 - `pip install -r requirements.txt` [Windows]  
 or
-- ```pip3 install -r requirements.txt``` [Mac]  
+- `pip3 install -r requirements.txt` [Mac]  
 <br />
 
 > Module: A module is a file containing code written by someone else(usually) which can be imported and used in our programs  

@@ -20,7 +20,7 @@ or
 - External Modules [Need to be installed using pip/pip3]  
 <br />
 
-> ```REPL = Read Evaluate Print Loop``` 
+> `REPL = Read Evaluate Print Loop` 
 - Simply go to the terminal and type python/python3, it will open REPL to code  
 <br />
 

@@ -318,4 +318,7 @@ or
 <img src="Images/Recursion.png" alt="Recursion Function(Factorial) Logic" style="height: 500px; width:790px;"/><br />  
 
 > Question: How do you prevent a python print() function from printing a new line at the end?
-- Answer: By writing this: `print("Hello World!", end = "")`
+- Answer: By writing this: `print("Hello World!", end = "")`  
+<br/>  
+
+> **[Project 1: Snake, Water, Gun, Game]**

@@ -321,4 +321,4 @@ or
 - Answer: By writing this: `print("Hello World!", end = "")`  
 <br/>  
 
-> **[Project 1: Rock, Paper, Scissor, Game]**
+> **[Project 1: Rock, Paper, Scissors, Game]**

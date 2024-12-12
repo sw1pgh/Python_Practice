@@ -9,7 +9,7 @@ Scissors wins against Paper.
 
 import random
 
-class R_P_S_Game:
+class Rock_Papaer_Scissors_Game:
     
     def get_random_choice_from_computer():
         choices = ["rock", "paper", "scissors"]

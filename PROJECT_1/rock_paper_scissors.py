@@ -47,6 +47,12 @@ class Rock_Papaer_Scissors_Game:
                 
     def determine_winner(self, user_choice, computer_choice):
         # Rules of Rock, Paper, Scissors
+        
+        print("\n")
+        print(f"Computer's Choice: {computer_choice}")
+        print(f"Your Choice: {user_choice}")
+        print("\n")
+        
         if user_choice == computer_choice:
             print("It's a tie!")
         elif (user_choice == "rock" and computer_choice == "scissors") or \

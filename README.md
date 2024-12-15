@@ -315,7 +315,7 @@ or
 - Example: `factorial(n) = n x factorial(n - 1)`
 - Code is written in: `27_Recursion_ex.py` Program.  
 
-<img src="Images/Recursion.png" alt="Recursion Function(Factorial) Logic" style="height: 500px; width:790px;"/><br />  
+<img src="Images/Recursion.png" alt="Recursion Function(Factorial) Logic" style="height: 500px; width:790px;"/><br/>  
 
 > Question: How do you prevent a python print() function from printing a new line at the end?
 - Answer: By writing this: `print("Hello World!", end = "")`  
@@ -328,5 +328,17 @@ or
 - The random-access memory is volatile, and all it's contents are lost once a program terminates in order to persist the data forever, we use files.
 - A file is a data stored in a storage device. A Python Program can talk to the file by reading content from it and writing content to it.  
 
-<img src="Images/Python_File_IO.png" alt="Python File Input Output" style="height: 350px; width:800px;"/><br />  
+<img src="Images/Python_File_IO.png" alt="Python File Input Output" style="height: 350px; width:800px;"/><br/>  
+
+> Types of Files
+- There are basically 2 types of files:
+    - Text files (.txt, .c etc)
+    - Binary files (.jpg, .dat, etc)
+- Python has a lot of functions for reading, updating and deleting files.  
+<br/>  
+
+> OPENING A FILE IN PYTHON
+- Python has an `open()` function for opening files. It takes 2 parameters: filename and made.
+    - # open("filename", "mode of opening(read mode)")
+    - `open("this.txt", "v")`
 

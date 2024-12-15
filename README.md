@@ -326,4 +326,4 @@ or
 
 > FILE INPUT/OUTPUT (I/O)
 - The random-access memory is volatile, and all it's contents are lost once a program terminates in order to persist the data forever, we use files.
-- 
+- A file is a data stored in a storage device. A Python Program can talk to the file by reading content from it and writing content to it.

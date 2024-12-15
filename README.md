@@ -321,4 +321,9 @@ or
 - Answer: By writing this: `print("Hello World!", end = "")`  
 <br/>  
 
-> **[Project 1: Rock, Paper, Scissors, Game]**
+> **[Project 1: Rock, Paper, Scissors, Game]**  
+<br/>  
+
+> FILE INPUT/OUTPUT (I/O)
+- The random-access memory is volatile, and all it's contents are lost once a program terminates in order to persist the data forever, we use files.
+- 

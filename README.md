@@ -340,4 +340,10 @@ or
 > OPENING A FILE IN PYTHON
 - Python has an `open()` function for opening files. It takes 2 parameters: filename and made.
     - # open("filename", "mode of opening(read mode)")
-    - `open("this.txt", "v")`
+    - `open("this.txt", "v")`  <br/>  
+
+> READING A FILE IN PYTHON
+- `f = open("Learning Codes with Indexing/file.md") # Opens up the file from the directory`
+- `data = f.read() # Reads the file`
+- `print(data) # Prints the data from the file`
+- `f.close() # CLoses the file after reading`

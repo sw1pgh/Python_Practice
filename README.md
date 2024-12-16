@@ -346,4 +346,17 @@ or
 - `f = open("Learning Codes with Indexing/file.md") # Opens up the file from the directory`
 - `data = f.read() # Reads the file`
 - `print(data) # Prints the data from the file`
-- `f.close() # CLoses the file after reading`
+- `f.close() # CLoses the file after reading`  
+<br/>  
+
+> OTHER METHODS TO READ THE FILE
+- We can also use `f.readline()` function to read one full line at a time  
+<br/>  
+
+> METHODS OF OPENING A FILE
+- `r`  -> Open for Reading
+- `w`  -> Open for Writing
+- `a`  -> Open for Appending
+- `+`  -> Open for Updating : used as `"w+"`, `"r+"` etc.
+- `rb` -> Will open for read in Binary Mode
+- `rt` -> Will open for read in Text mode

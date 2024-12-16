@@ -341,4 +341,3 @@ or
 - Python has an `open()` function for opening files. It takes 2 parameters: filename and made.
     - # open("filename", "mode of opening(read mode)")
     - `open("this.txt", "v")`
-

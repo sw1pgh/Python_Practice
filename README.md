@@ -359,4 +359,15 @@ or
 - `a`  -> Open for Appending
 - `+`  -> Open for Updating : used as `"w+"`, `"r+"` etc.
 - `rb` -> Will open for read in Binary Mode
-- `rt` -> Will open for read in Text mode
+- `rt` -> Will open for read in Text mode  
+<br/>  
+
+> METHOD TO WRITE FILES IN PYTHON
+- In order to write to a file in Python, we first open it in write mode or append mode after which, we use the python's `f.write()` method to write the file.
+- Code has been written in `Learning Codes with Indexing/29_file_writing.py`  
+<br/>  
+
+> WITH STATEMENT
+- The best way to open and close the file automatically is by using the `with` statement
+- Open the file in read mode using `with` which automatically closes the file
+- Code has been written in ``

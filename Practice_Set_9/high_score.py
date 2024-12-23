@@ -16,7 +16,11 @@ def game():
     print(f"Your score is: {score}")
     
     if (score > hi_score or hi_score == ""):
+        print(f"Congratulations! {score} is the new Highest Score.")
         with open("Practice_Set_9/Hi-score.txt", "w") as f:
-            f.write(str(score))        
+            f.write(str(score))   
+    else:
+        print(f"Sadly {score} did NOT beat the previous Highest Score.")     
 
-game()
+if __name__ == "__main__":
+    game()

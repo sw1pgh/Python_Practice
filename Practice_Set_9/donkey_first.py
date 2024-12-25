@@ -1,13 +1,15 @@
 
 
-def change_donkey(changeable_word, new_word):
+def change_donkey(words):
     with open("Practice_Set_9/donkey.txt", "r") as f:
         content = f.read()
-        
-    new_Content = content.replace(changeable_word, new_word)
+      
+    for word in words:  
+        content = content.replace(word, "#" * len(word))
     
     with open("Practice_Set_9/donkey.txt", "w") as f:
-        f.write(new_Content)
+        f.write(content)
         
 if __name__ == "__main__":
-    change_donkey("Donkey", "######")
+    word_list = ["Donkey", "Gadha", "BOT", "IDIOT"]
+    change_donkey(word_list)

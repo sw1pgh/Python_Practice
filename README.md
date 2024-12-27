@@ -371,4 +371,4 @@ or
 - The best way to open and close the file automatically is by using the `with` statement
 - Open the file in read mode using `with` which automatically closes the file
 - Code has been written in `Learning Codes with Indexing/30_with_st.py`
-- Syntax: `with open("filename", mode) as f:` -> Codes written in Practice
+- Syntax: `with open("filename", mode) as f:` -> Codes written in Practice Set

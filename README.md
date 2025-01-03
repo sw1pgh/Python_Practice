@@ -375,4 +375,6 @@ or
 - Syntax: `with open("filename", mode) as f:` -> Codes written in Practice Set 9.  
 <br/>  
 
-> OBJECT ORIENTED PROGRAMMING
+> *OBJECT ORIENTED PROGRAMMING*
+- Solving a problem by creating object is one of the most popular approaches in programming. This is called Object-Oriented Programming.
+- This concept focuses on using reusable code (DRY Principle).

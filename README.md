@@ -377,4 +377,15 @@ or
 
 > *OBJECT ORIENTED PROGRAMMING*
 - Solving a problem by creating object is one of the most popular approaches in programming. This is called Object-Oriented Programming.
-- This concept focuses on using reusable code (DRY Principle).
+- This concept focuses on using reusable code (DRY Principle).  
+<br/>  
+
+> CLASS
+- A class is a blueprint for creating an object.  
+
+<img src="Images/OOP_Class.png" alt="Class in OOP" style="height: 180px; width:850px;"/><br/>  
+
+- Syntax:
+- `class Employee:` # Class name is written in pascal case
+-        `# Methods and Variables`
+

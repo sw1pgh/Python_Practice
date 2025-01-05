@@ -5,6 +5,8 @@ class Employee: # Class
     hobby = "Watching Football"
     title = "Ghosh"
     
-obj_emp = Employee() # Instantiation of the Class -> Object
+# obj_emp = Employee() # Instantiation of the Class -> Object
 
-print(f"Name = {obj_emp.name}")
+# print(f"Name = {obj_emp.name}")
+
+print(f"{Employee().name}")

@@ -399,4 +399,8 @@ or
 - We identify the following in our problem:
     - Noun -> Class -> Employee
     - Adjective -> Attributes -> name, age, salary
-    - Verbs -> Methods -> getSalary(), increment()
+    - Verbs -> Methods -> getSalary(), increment()  
+<br/>  
+
+> CLASS ATTRIBUTES
+- An attribute that belongs to the entire class rather than a particular object

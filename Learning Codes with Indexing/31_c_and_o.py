@@ -5,6 +5,8 @@ class Employee: # Class
     hobby = "Watching Football"
     title = "Ghosh"
     
+    # Here [name, hobby, title] are the attributes if the class Employee
+    
 # obj_emp = Employee() # Instantiation of the Class -> Object
 
 # print(f"Name = {obj_emp.name}")

@@ -403,4 +403,11 @@ or
 <br/>  
 
 > CLASS ATTRIBUTES
-- An attribute that belongs to the entire class rather than a particular object
+- An attribute that belongs to the entire class rather than a particular object  
+<br/>  
+
+> INSTANCE ATTRIBUTES
+- An attribute that belongs to the instance (object). Example:
+- `employee.name = "Swapnaneel"`
+- `employee.job = "Automation"`
+- *Note: Instance attributes take preference over class attributes during assignment and retrieval*

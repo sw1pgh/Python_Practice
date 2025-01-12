@@ -409,5 +409,5 @@ or
 > INSTANCE ATTRIBUTES
 - An attribute that belongs to the instance (object). Example:
 - `employee.name = "Swapnaneel"`
-- `employee.job = "Automation"
+- `employee.job = "Automation"`
 - *Note: Instance attributes take preference over class attributes during assignment and retrieval*

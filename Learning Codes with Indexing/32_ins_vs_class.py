@@ -2,6 +2,9 @@ class Employee():
     language = "Python"
     name = "Swap"
     
+    def getInfo(self):
+        print(f"The language is {self.language} and the name is {self.name}")
+    
 obj_emp = Employee()
 obj_emp.language = "JavaScript"
 
@@ -11,3 +14,4 @@ as Instance/Object Attributes takes preference over Class Attribute
 '''
 
 print(f"Language = {obj_emp.language}")
+obj_emp.getInfo()

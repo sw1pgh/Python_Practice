@@ -5,7 +5,7 @@ class Employee: # Class
     hobby = "Watching Football"
     title = "Ghosh"
     
-    # Here [name, hobby, title] are the attributes if the class Employee
+    # Here [name, hobby, title] are the attributes of the class Employee
     
 # obj_emp = Employee() # Instantiation of the Class -> Object
 

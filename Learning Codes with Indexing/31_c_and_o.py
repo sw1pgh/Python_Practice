@@ -8,7 +8,7 @@ class Employee: # Class
     # Here [name, hobby, title] are the attributes of the class Employee --> Class attribute
     
 obj_emp = Employee() # Instantiation of the Class -> Object
-obj_emp.laptop = "M2 MBA" # Here laptop is the object attribute
+obj_emp.laptop = "M2 MBA" # Here laptop is the object attribute / Instance Attribute
 
 print(f"Name = {obj_emp.name}\nLaptop = {obj_emp.laptop}")
 

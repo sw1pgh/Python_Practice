@@ -411,3 +411,5 @@ or
 - `employee.name = "Swap"`
 - `employee.job = "Automation"`
 - *Note: Instance attributes take preference over class attributes during assignment and retrieval*
+- For refernce look into "Learning Codes with Indexing/31_c_and_o.py"
+- When looking up for `obj_emp.laptop`

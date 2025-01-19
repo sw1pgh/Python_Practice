@@ -411,5 +411,13 @@ or
 - `employee.name = "Swap"`
 - `employee.job = "Automation"`
 - *Note: Instance attributes take preference over class attributes during assignment and retrieval*
-- For refernce look into "Learning Codes with Indexing/31_c_and_o.py"
-- When looking up for `obj_emp.laptop`
+- For refernce look into "Learning Codes with Indexing/32_ins_vs_class.py"
+- When looking up for `obj_emp.laptop`, it checks for the following in order:
+    - Is attribute present in the object?
+    - Is attribute present in the class?  
+<br/>  
+
+> **SELF PARAMETER**
+- self refers to the instance of the class. It is automatically passed with a function call from an object
+- `swap.getSalary()` -> Here `self` is `swap`
+- Equivalent to `Employee.getSalary(swap)`

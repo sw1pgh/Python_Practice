@@ -7,8 +7,9 @@ class Employee: # Class
     
     # Here [name, hobby, title] are the attributes of the class Employee
     
-# obj_emp = Employee() # Instantiation of the Class -> Object
+obj_emp = Employee() # Instantiation of the Class -> Object
+obj_emp.laptop = "M2 MBA"
 
-# print(f"Name = {obj_emp.name}")
+print(f"Name = {obj_emp.name}\nLaptop = {obj_emp.laptop}")
 
-print(f"{Employee().name}")
+# print(f"{Employee().name}")

@@ -17,5 +17,5 @@ as Instance/Object Attributes takes preference over Class Attribute
 '''
 
 # print(f"Language = {obj_emp.language}")
-obj_emp.greet()
+obj_emp.greet(
 obj_emp.getInfo()

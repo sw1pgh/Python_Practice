@@ -2,7 +2,7 @@ class Employee():
     language = "Python"
     name = "Swap"
     
-    def getInfo(self): # self is a function parameter as whenever we create any function in python, an empty paramter named 
+    def getInfo(self): # self is a function parameter as whenever we create any function in python, an empty paramter is present at all times
         print(f"The language is {self.language} and the name is {self.name}")
         
     def greet(self):

@@ -19,3 +19,5 @@ as Instance/Object Attributes takes preference over Class Attribute
 print(f"Language = {obj_emp.language}")
 obj_emp.greet()
 obj_emp.getInfo()
+
+# self is required at all times as whenever we call any function in python, an empty paramter is present at all times

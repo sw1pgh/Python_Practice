@@ -420,4 +420,8 @@ or
 > **SELF PARAMETER**
 - self refers to the instance of the class. It is automatically passed with a function call from an object
 - `swap.getSalary()` -> Here `self` is `swap`
-- Equivalent to `Employee.getSalary(swap)`
+- Equivalent to `Employee.getSalary(swap)`  
+<br/>  
+
+> STATIC METHOD
+- 

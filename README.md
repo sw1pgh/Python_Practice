@@ -434,5 +434,5 @@ or
 - `__init__()` is a special method which is first run as soon as the object is created.
 - `__init__()` method is also known as a constructor.
 - It takes `self` argument and can also take further arguments.
-- Example in: 
-    
+- Example in: [Learning Codes with Indexing/34_init_const.py]
+- Quote: The `__init__.py` files are required to make Python treat the directories as containing packages; this is done to prevent directories with a common name, such as string, from unintentionally hiding valid modules that occur later on the module search path.

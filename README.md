@@ -427,5 +427,12 @@ or
 - Sometimes we need a function that does not use the self-parameter. We can define a static method like this:
 - `@staticmethod` *decorator to mark a static method*
 - `def greet()`
-    - `print("Hello!")`
+    - `print("Hello!")`  
+<br/>  
+
+> __init__ Constructor
+- `__init__()` is a special method which is first run as soon as the object is created.
+- `__init__()` method is also known as a constructor.
+- It takes `self` argument and can also take further arguments.
+- Example in: 
     

@@ -424,4 +424,8 @@ or
 <br/>  
 
 > STATIC METHOD
-- 
+- Sometimes we need a function that does not use the self-parameter. We can define a static method like this:
+- `@staticmethod` *decorator to mark a static method*
+- `def greet()`
+    - `print("Hello!")`
+    

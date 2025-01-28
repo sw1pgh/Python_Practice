@@ -8,8 +8,6 @@ class Programmer:
 
 obj_prog = Programmer()
 
-n = len(obj_prog.name)
-
-for i in range (0 , n):
+for i in range (0 , len(obj_prog.name)):
     print(f"Name = {obj_prog.name[i]}\nCompany = {obj_prog.company}\nJob Role = {obj_prog.job_role[i]}")
     print("")

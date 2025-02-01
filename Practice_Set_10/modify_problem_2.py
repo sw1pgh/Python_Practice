@@ -14,4 +14,3 @@ OBJECT.a = 0
 OBJECT.greet_user()
 
 print(f"Value of a = {OBJECT.a}")
-

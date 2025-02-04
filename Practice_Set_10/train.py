@@ -2,7 +2,6 @@
 Create a class Train which has methods to book a ticket, get status(no of seat) and get fare information of train running under 
 INDIAN RAILWAYS
 '''
-
 import random
 
 class Train:

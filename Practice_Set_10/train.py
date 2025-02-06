@@ -3,6 +3,8 @@ Create a class Train which has methods to book a ticket, get status(no of seat) 
 INDIAN RAILWAYS
 '''
 
+# I need to write better code
+
 import random
 
 class Train:

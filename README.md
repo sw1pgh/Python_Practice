@@ -446,4 +446,4 @@ or
 <br/>  
 
 > TYPES OF INHERITANCE
-- `Single Inheritance`: Occurs when a child class inherits only a single parent class.
+- `Single Inheritance`: Occurs when a child class inherits only a single parent class. `[BASE ---> DERIVED]`

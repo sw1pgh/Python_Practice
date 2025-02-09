@@ -435,4 +435,15 @@ or
 - `__init__()` method is also known as a constructor.
 - It takes `self` argument and can also take further arguments.
 - Example in: [Learning Codes with Indexing/34_init_const.py]
-- Quote: The `__init__.py` files are required to make Python treat the directories as containing packages; this is done to prevent directories with a common name, such as string, from unintentionally hiding valid modules that occur later on the module search path.
+- Quote: The `__init__.py` files are required to make Python treat the directories as containing packages; this is done to prevent directories with a common name, such as string, from unintentionally hiding valid modules that occur later on the module search path.  
+<br/>  
+
+> INHERITANCE AND MORE ON OOPS  
+- Inheritance is a way of creating a new class from an existing class.
+- Syntax: written in `"Learning Codes with Indexing/35_inh_ex.py"`
+- We can use the method and attributes of 'Employee' in 'Programmer' object
+- Also, we can overwrite or add new attributes and methods in 'Programmer' class  
+<br/>  
+
+> TYPES OF INHERITANCE
+- `Single Inheritance`: Occurs when a child class inherits only a single parent class.

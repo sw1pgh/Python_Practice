@@ -453,4 +453,10 @@ or
 
 > SUPER() METHOD:
 - `super()` method is used to access the methods of a super class in the derived class.
-- Syntax: `super().__init__()`
+- Syntax: `super().__init__()`  
+<br/>  
+
+> CLASS METHOD:
+- A class method which is bound to the class and not the object of the class.
+- `@classmethod` *decorator is used to create a class method*
+- Syntax: Written in ``

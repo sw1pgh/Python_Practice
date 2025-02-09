@@ -459,4 +459,4 @@ or
 > CLASS METHOD:
 - A class method which is bound to the class and not the object of the class.
 - `@classmethod` *decorator is used to create a class method*
-- Syntax: Written in ``
+- Syntax: Written in `Learning Codes with Indexing/38_class_methods.py`

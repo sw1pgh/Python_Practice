@@ -447,3 +447,10 @@ or
 
 > TYPES OF INHERITANCE
 - `Single Inheritance`: Occurs when a child class inherits only a single parent class. `[BASE ---> DERIVED]`
+- `Multiple Inheritance`: Occurs when the child class inherits from more than one parent classes. `[Parent_1 + Parent_2 ---> Child]`
+- `Multilevel Inheritance`: When a child class becomes a parent of another class. `[Parent ---> Child_1 ---> Child_2]`  
+<br/>  
+
+> SUPER() METHOD:
+- `super()` method is used to access the methods of a super class in the derived class.
+- Syntax: `super().__init__()`

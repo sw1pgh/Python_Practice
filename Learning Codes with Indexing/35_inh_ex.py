@@ -2,7 +2,7 @@ class Employee:
     company = "ITC"
     
     def show(self):
-        print(f"The name of the Employee is {self.name} and the salary is {self.salary}")
+        print(f"The name of the Employee is Swap and the salary is God's Plan!")
         
 class Programmer(Employee):
     company = "ITC Infotech" # Overwrite the company of the parent class
@@ -13,4 +13,5 @@ class Programmer(Employee):
 a = Employee()
 b = Programmer()
 
+print(f"{a.show()}")
 print(f"A = {a.company}\nB = {b.company}")

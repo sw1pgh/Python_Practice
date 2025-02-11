@@ -462,4 +462,4 @@ or
 - Syntax: Written in `Learning Codes with Indexing/38_class_methods.py`  
 <br/>  
 
-> 
+> PROPERTY DECORATORS

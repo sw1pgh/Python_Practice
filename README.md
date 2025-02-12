@@ -464,4 +464,9 @@ or
 
 > PROPERTY DECORATORS:
 - Syntax written in `Learning Codes with Indexing/39_property_decorators.py`
-- If `e = Employee()` is an object of class Employee, we can print `e.name` to print the ename by internally calling name function.
+- If `e = Employee()` is an object of class Employee, we can print `e.name` to print the ename by internally calling name function.  
+<br/>  
+
+> GETTERS AND SETTERS
+- The method name with `@property` is called Getter Method.
+- We can define a `function + @name.setter` decorator as shown in the above example.

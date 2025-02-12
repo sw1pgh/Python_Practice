@@ -462,4 +462,6 @@ or
 - Syntax: Written in `Learning Codes with Indexing/38_class_methods.py`  
 <br/>  
 
-> PROPERTY DECORATORS
+> PROPERTY DECORATORS:
+- Syntax written in `Learning Codes with Indexing/39_property_decorators.py`
+- If `e = Employee()` is an object of class Employee, we can print `e.name` to print the ename by internally calling name function.

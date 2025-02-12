@@ -469,4 +469,15 @@ or
 
 > GETTERS AND SETTERS
 - The method name with `@property` is called Getter Method.
-- We can define a `function + @name.setter` decorator as shown in the above example.
+- We can define a `function + @name.setter` decorator as shown in the above example.  
+<br/>  
+
+> OPERATORS OVERLOADING IN PYTHON
+- Operators in Python can be overloaded using dunder methods.
+- These methods are called when a given operator is used on the objects.
+- Operators in Python can be overloaded using the following methods:
+    - `p1 + p2` *add*
+    - `p1 - p2` *sub*
+    - `p1 * p2` *mul*
+    - `p1 / p2` *truediv*
+    - `p1 // p2` *floordiv*

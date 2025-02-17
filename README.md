@@ -481,3 +481,5 @@ or
     - `p1 * p2` *mul*
     - `p1 / p2` *truediv*
     - `p1 // p2` *floordiv*
+- Other dunder/magic methods in Python:
+    - str__() *used to set what gets displayed upon calling str(obj)* 

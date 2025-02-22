@@ -4,8 +4,6 @@
 Write __str__() method to print the vector as follows:
 7i + 8j + 10k
 """
-
-
 class Vector:
     def __init__(self, a, b, c):
         self.a = a

@@ -483,4 +483,7 @@ or
     - `p1 // p2` *floordiv* --> `__floordiv__`
 - Other dunder/magic methods in Python:
     - `str__()` *used to set what gets displayed upon calling `str(obj)`*
-    - `__len__()` *used to set what gets displayed upon calling `__len__()` or `len(obj)`*
+    - `__len__()` *used to set what gets displayed upon calling `__len__()` or `len(obj)`*  
+<br/>  
+
+> 

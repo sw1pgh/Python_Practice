@@ -486,4 +486,7 @@ or
     - `__len__()` *used to set what gets displayed upon calling `__len__()` or `len(obj)`*  
 <br/>  
 
-> 
+> NEWLY ADDED FEATURES IN PYTHON
+- Following are some of the newly added features in Python programming language:  
+<br/>
+- WALRUS OPERATOR

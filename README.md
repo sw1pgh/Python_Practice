@@ -494,5 +494,5 @@ or
     - Syntax written in `Learning Codes with Indexing/41_walrus_op.py`
 - TYPE DEFINITIONS IN PYTHON
     - Type hints are added using the colon `:` syntax for variables and the `->` syntax for function return types.
-    - Syntax written in ``
+    - Syntax written in `Learning Codes with Indexing/42_type_hint.py`
     - Type hints make the code easier to understand as to what the data type is for any variable

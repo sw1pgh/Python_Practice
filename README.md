@@ -496,3 +496,8 @@ or
     - Type hints are added using the colon `:` syntax for variables and the `->` syntax for function return types.
     - Syntax written in `Learning Codes with Indexing/42_type_hint.py`
     - Type hints make the code easier to understand as to what the data type is for any variable
+- ADVANCED TYPE HINTS
+    - Python's typing module provides more advanced type hints, such as List, Tuple, Dict, and Union.
+    - You can import List, Tuple and Dict types from the typing module like this:
+    - `from typing import List, Tuple, Dict, Union`
+    - Syntax written in `Learning Codes with Indexing/42_type_hint.py`

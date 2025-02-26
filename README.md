@@ -495,3 +495,4 @@ or
 - TYPE DEFINITIONS IN PYTHON
     - Type hints are added using the colon `:` syntax for variables and the `->` syntax for function return types.
     - Syntax written in ``
+    - Type hints make the code easier to understand as to what the data type is for any variable

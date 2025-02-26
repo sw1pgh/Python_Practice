@@ -491,7 +491,7 @@ or
 <br/>
 - WALRUS OPERATOR
     - The walrus operator `:=`, introduced in Python 3.8 allows us to assign values to variables as part of an expression. This operator, named for it's resemblance to the eyes and tusks of a walrus, is officially called the `"assignment expression"`.
-    - Syntax written in ''
+    - Syntax written in `Learning Codes with Indexing/41_walrus_op.py`
 - TYPE DEFINITIONS IN PYTHON
     - Type hints are added using the colon `:` syntax for variables and the `->` syntax for function return types.
-    - Syntax written in ''
+    - Syntax written in ``

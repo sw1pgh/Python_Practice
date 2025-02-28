@@ -4,7 +4,8 @@ def user_input_integer():
     try:
         ui = int(input("Please enter an integer number only: "))
         print(f"Thanks for entering an Integer")
-    except:
+    except Exception as e:
+        print(e)
         print(f"I said only INTEGER!!!!")
         user_input_integer()
         

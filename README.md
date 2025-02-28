@@ -505,4 +505,8 @@ or
 - MATCH CASE
     - Python 3.10 introduced the `match` statement, which is similar to the switch statement found in other programming languages
     - The basic syntax of the `match` statement involves matching a variable against several cases using the case keyword
-    - Syntax written in `Learning Codes with Indexing/42_type_hint.py`
+    - Syntax written in `Learning Codes with Indexing/43_match_case.py`
+- DICTIONARY MERGE & UPDATE OPERATORS
+    - New operators `|` and `|=` allow for merging and updating dictionaries
+    - You can use multiple context managers in a single with statement more cleanly using the parenthesised context manager
+    - Syntax written in `Learning Codes with Indexing/43_match_case.py`

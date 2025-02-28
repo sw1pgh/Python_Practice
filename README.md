@@ -501,3 +501,4 @@ or
     - You can import List, Tuple and Dict types from the typing module like this:
     - `from typing import List, Tuple, Dict, Union`
     - Syntax written in `Learning Codes with Indexing/42_type_hint.py`
+    - These annotations help in making the code self-documenting and allow developers to understand the data structures used at a glance.

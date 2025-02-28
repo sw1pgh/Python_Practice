@@ -509,4 +509,9 @@ or
 - DICTIONARY MERGE & UPDATE OPERATORS
     - New operators `|` and `|=` allow for merging and updating dictionaries
     - You can use multiple context managers in a single with statement more cleanly using the parenthesised context manager
-    - Syntax written in ``
+    - Syntax written in `Learning Codes with Indexing/44_dict_merge_update.py`
+- EXCEPTION HANDLING IN PYTHON
+    - There are many built-in exceptions which are raised in Python when something goes wrong.
+    - Exception in pyhton can be handled using try-except statement. The code that handles the exception is written in the except clause
+    - When the exception is handled, the code flow continues without program interruption.
+    - Syntax written in `Learning Codes with Indexing/44_dict_merge_update.py`

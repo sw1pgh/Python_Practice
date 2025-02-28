@@ -502,3 +502,7 @@ or
     - `from typing import List, Tuple, Dict, Union`
     - Syntax written in `Learning Codes with Indexing/42_type_hint.py`
     - These annotations help in making the code self-documenting and allow developers to understand the data structures used at a glance.
+- MATCH CASE
+    - Python 3.10 introduced the `match` statement, which is similar to the switch statement found in other programming languages
+    - The basic syntax of the `match` statement involves matching a variable against several cases using the case keyword
+    - Syntax written in `Learning Codes with Indexing/42_type_hint.py`

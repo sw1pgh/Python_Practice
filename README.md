@@ -530,4 +530,8 @@ or
 <br/>  
 
 - THE `GLOBAL` KEYWORD
-    - `global` keyword is used to modify the variable outside of the current scope
+    - `global` keyword is used to modify the variable outside of the current scope  
+<br/>
+
+- ENUMERATE FUNCTION IN PYTHON
+    - The `enumerate` function adds counter to an iterable and returns it

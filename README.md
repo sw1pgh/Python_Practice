@@ -517,3 +517,7 @@ or
     - Syntax written in `Learning Codes with Indexing/45_exception_handling.py`
 - RAISING EXCEPTIONS
     - We can also raise custom exceptions using the `raise` keyword in python
+- TRY WITH ELSE CLAUSE
+    - Sometimes we want to run a piece of code when `try` was successful
+- TRY WITH FINALLY
+    - Python offers a `finally` clause which ensures execution of a piece of code irrespective of the exception

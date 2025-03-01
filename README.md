@@ -535,4 +535,10 @@ or
 
 - ENUMERATE FUNCTION IN PYTHON
     - The `enumerate` function adds counter to an iterable and returns it
-    - Syntax: `for i, item in enumerate(l):`
+    - Syntax: `for i, item in enumerate(l):`  
+<br/>  
+
+- LIST COMPREHENSIONS
+    - List Comprehension is an elegant way to create lists based on existing lists
+    - `list_1 = [1, 7, 12, 11, 22]`
+    - `list_2 = [i for item in list_1 if item > 8]`

@@ -535,3 +535,4 @@ or
 
 - ENUMERATE FUNCTION IN PYTHON
     - The `enumerate` function adds counter to an iterable and returns it
+    - Syntax: `for i, item in enumerate(l):`

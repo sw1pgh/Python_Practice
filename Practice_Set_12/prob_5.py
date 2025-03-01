@@ -7,8 +7,8 @@ class Table_List_Comprehension:
         
     def table_list_generator(self):
         table = [self.n * i for i in range (1,11)]
-        with open("Practice_Set_12/Tables.txt", 'w')as f:
-            f.write(str(table))
+        with open("Practice_Set_12/Tables.txt", 'a')as f:
+            f.write(str(table) + "\n")
 
     
 Table_List_Comprehension().table_list_generator()

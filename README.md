@@ -515,3 +515,5 @@ or
     - Exception in pyhton can be handled using try-except statement. The code that handles the exception is written in the except clause
     - When the exception is handled, the code flow continues without program interruption.
     - Syntax written in `Learning Codes with Indexing/45_exception_handling.py`
+- RAISING EXCEPTIONS
+    - We can also raise custom exceptions using the `raise` keyword in python

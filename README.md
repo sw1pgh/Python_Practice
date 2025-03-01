@@ -520,4 +520,14 @@ or
 - TRY WITH ELSE CLAUSE
     - Sometimes we want to run a piece of code when `try` was successful
 - TRY WITH FINALLY
-    - Python offers a `finally` clause which ensures execution of a piece of code irrespective of the exception
+    - Python offers a `finally` clause which ensures execution of a piece of code irrespective of the exception  
+<br/>  
+
+- IF `__NAME__ == '__MAIN__'` IN PYTHON
+    - `__name__` evaluates to the name of the module in python from where the program is ran.
+    - If the module is being run directly from the command line, the `__name__` is set to the string `'__main__'`.
+    - Thus, this behaviour is used to check whether the module is run directly or imported to another file.  
+<br/>  
+
+- THE `GLOBAL` KEYWORD
+    - `global` keyword is used to modify the variable outside of the current scope

@@ -541,7 +541,7 @@ or
 - LIST COMPREHENSIONS
     - List Comprehension is an elegant way to create lists based on existing lists
     - `list_1 = [1, 7, 12, 11, 22]`
-    - `list_2 = [i for item in list_1 if item > 8]`  
+    - `list_2 = [item for item in list_1 if item > 8]`  
 <br/>  
 
 - VIRTUAL ENVIRONMENT
@@ -572,4 +572,4 @@ or
 
 - JOIN METHOD (STRINGS)
     - Creates a String from iterable objects
-    - Example written in: ``
+    - Example written in: `Learning Codes with Indexing/50_join_method.py`

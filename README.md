@@ -572,4 +572,17 @@ or
 
 - JOIN METHOD (STRINGS)
     - Creates a String from iterable objects
-    - Example written in: `Learning Codes with Indexing/50_join_method.py`
+    - Example written in: `Learning Codes with Indexing/50_join_method.py`  
+<br/>  
+
+- MAP, FILTER & REDUCE
+    - Map applies a function to all the items in an input_list
+        - Syntax: `map(function, input_list)`
+    - Filter creates a list of items for which the function returns `true`
+        -Syntax: `list(filter(function))`
+    - Reduce applies a rolling computation to sequential pair of elements
+        - Syntax:-
+            - `from functools import reduce`
+            - `val = reduce (function, list1)`
+
+            - <img src="Images/Sequential_Computation.png" alt="Sequential Computation" style="height: 200px; width:240px;"/>

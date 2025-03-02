@@ -541,4 +541,24 @@ or
 - LIST COMPREHENSIONS
     - List Comprehension is an elegant way to create lists based on existing lists
     - `list_1 = [1, 7, 12, 11, 22]`
-    - `list_2 = [i for item in list_1 if item > 8]`
+    - `list_2 = [i for item in list_1 if item > 8]`  
+<br/>  
+
+- VIRTUAL ENVIRONMENT
+    - An environment which is same as the system interpreter but is isolated from the other Python environments on the system.
+    - Installation:
+        - To install virtual environments, we write:
+        - `pip install virtualenv` -> For Windows
+        - `pip3 install virtualenv` -> For Mac
+        - We create a new virtual environment using:
+        - `virtualenv myproject_1` -> Creates a new venv
+        - The next step after creating venv is to activate it
+        - We can now use the venv as a separate Python installation.  
+<br/>  
+
+- PIP FREEZE COMMAND
+    - `pip freeze` returns all the package installed in a given python environment along with versions.
+    - `pip freeze > requirements.txt`
+    - The above command creates a file named `requirements.txt` in the same directory containing the output of `pip freeze`
+    - We can distribute this file to other users, and they can recreate the same environment using:
+    - `pip install -r requirements.txt`

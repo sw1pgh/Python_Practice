@@ -561,4 +561,15 @@ or
     - `pip freeze > requirements.txt`
     - The above command creates a file named `requirements.txt` in the same directory containing the output of `pip freeze`
     - We can distribute this file to other users, and they can recreate the same environment using:
-    - `pip install -r requirements.txt`
+    - `pip install -r requirements.txt`  
+<br/>  
+
+- LAMBDA FUNCTIONS
+    - Functions created using `lambda` keyword
+    - Syntax: `lambda arguments:expression`
+    - Example written in: `Learning Codes with Indexing/49_lambda_func.py`  
+<br/>  
+
+- JOIN METHOD (STRINGS)
+    - Creates a String from iterable objects
+    - Example written in: ``

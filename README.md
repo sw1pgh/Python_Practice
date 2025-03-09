@@ -582,7 +582,7 @@ This Repository contains all the codes that I will be learning and writing while
 - ENUMERATE FUNCTION IN PYTHON - The `enumerate` function adds counter to an iterable and returns it - Syntax: `for i, item in enumerate(l):`  
   <br/>
 
-- LIST COMPREHENSIONS - List Comprehension is an elegant way to create lists based on existing lists - `list_1 = [1, 7, 12, 11, 22]` - `list_2 = [item for item in list_1 if item > 8]`  
+- LIST COMPREHENSIONS - List Comprehension is an elegant way to create lists based on existing lists - `list_1 = [1, 7, 12, 11, 22]` - `list_2 = [item for item in list_1 if item > 8]`
   <br/>
 
 - VIRTUAL ENVIRONMENT - An environment which is same as the system interpreter but is isolated from the other Python environments on the system. - Installation: - To install virtual environments, we write: - `pip install virtualenv` -> For Windows - `pip3 install virtualenv` -> For Mac - We create a new virtual environment using: - `virtualenv myproject_1` -> Creates a new venv - The next step after creating venv is to activate it - We can now use the venv as a separate Python installation.  

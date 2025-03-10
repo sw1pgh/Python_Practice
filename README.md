@@ -610,4 +610,46 @@ This Repository contains all the codes that I will be learning and writing while
       - `from functools import reduce`
       - `val = reduce (function, list1)`
 
-      - <img src="Images/Sequential_Computation.png" alt="Sequential Computation" style="height: 200px; width:240px;"/>
+      - <img src="Images/Sequential_Computation.png" alt="Sequential Computation" style="height: 200px; width:240px;"/>  
+<br/>  
+
+
+> The [::-1] slicing method in Python is used to reverse a sequence, such as a string, list, or tuple. Let's break it down in detail.
+
+- Understanding Slicing in Python
+- The general slicing syntax is:
+- `sequence[start:stop:step]`
+- start → The index where the slice starts (default is 0 if omitted).
+- stop → The index where the slice ends (not included).
+- step → The interval between elements (default is 1).
+
+> What Does [::-1] Mean?
+- Start (:) → Not specified, so it starts from the beginning.
+- Stop (:) → Not specified, so it goes until the end.
+- Step (-1) → Moves backward, effectively reversing the sequence.
+
+> Example with String
+- `text = "hello"`
+- `reversed_text = text[::-1]`
+- `print(reversed_text)  # Output: "olleh"`
+- It starts from the end ('o').
+- Moves backward one step at a time ('l', 'l', 'e', 'h').
+- Stops when it reaches the beginning.
+
+> Example with Lists
+- numbers = [1, 2, 3, 4, 5]
+- reversed_numbers = numbers[::-1]
+- print(reversed_numbers)  # Output: [5, 4, 3, 2, 1]
+- Works the same way as for strings.
+
+> Step Variations
+- You can modify the step to control how elements are picked:
+- `text = "abcdef"`
+- `print(text[::-1])`  # Output: "fedcba" (Full reverse)
+- `print(text[::2])`   # Output: "ace" (Every 2nd character)
+- `print(text[::-2])`  # Output: "fdb" (Reverse but skipping every other character)
+
+> Why Use [::-1]?
+- ✅ Fast – Uses Python’s built-in slicing mechanism, making it efficient.
+- ✅ Concise – One-liner solution instead of loops.
+- ✅ Versatile – Works with strings, lists, and tuples.

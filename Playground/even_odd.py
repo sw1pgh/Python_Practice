@@ -8,4 +8,4 @@ class Even_or_Odd:
             else:
                 return 'odd'
             
-print(Even_or_Odd().number_checker(num = 1))
+print(Even_or_Odd().number_checker(num = 1823092039))

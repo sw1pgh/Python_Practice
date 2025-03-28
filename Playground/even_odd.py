@@ -4,8 +4,8 @@ class Even_or_Odd:
             return 'even'
         while (num != 0):
             if (num % 2 == 0):
-                return 'even'
+                return 'Even Number'
             else:
-                return 'odd'
+                return 'Odd Number'
             
 print(Even_or_Odd().number_checker(num = 1823092030))

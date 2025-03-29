@@ -1,7 +1,7 @@
 class Even_or_Odd:
     def number_checker(self, num: int) -> str:
         if num == 0:
-            return 'even'
+            return 'Even Number'
         while (num != 0):
             if (num % 2 == 0):
                 return 'Even Number'

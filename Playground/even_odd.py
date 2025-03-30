@@ -1,4 +1,5 @@
-# Checks whether a number is Even or Odd
+# Checks whether an inputted number is Even or Odd
+
 class Even_or_Odd:
     def number_checker(self, num: int) -> str:
         if num == 0:

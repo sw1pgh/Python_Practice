@@ -1,4 +1,4 @@
-'''Two Sums [Leet Code Problem. Must Learn]'''
+'''Two Sums [Leet Code Problem. Must Learn.]'''
 
 from typing import List
 

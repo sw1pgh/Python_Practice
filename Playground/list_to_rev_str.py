@@ -1,4 +1,4 @@
-# List to a Reversed String
+# List[str] to a Reversed String
 
 from typing import List
 

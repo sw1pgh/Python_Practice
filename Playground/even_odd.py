@@ -10,4 +10,4 @@ class Even_or_Odd:
             else:
                 return 'Odd Number'
             
-print(Even_or_Odd().number_checker(num = 1823092030))
+print(Even_or_Odd().number_checker(num = 182302918198030))

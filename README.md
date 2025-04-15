@@ -652,4 +652,5 @@ This Repository contains all the codes that I will be learning and writing while
 > Why Use [::-1]?
 - ✅ Fast – Uses Python’s built-in slicing mechanism, making it efficient.
 - ✅ Concise – One-liner solution instead of loops.
-- ✅ Versatile – Works with strings, lists, and tuples.
+- ✅ Versatile – Works with strings, lists, and tuples.  
+<br/>  

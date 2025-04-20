@@ -660,4 +660,4 @@ This Repository contains all the codes that I will be learning and writing while
 <br/>  
 
 > Words of Wisdom:
-- "You might not always have the strength to carry on the "
+- "You might not always have the strength to carry on the good work. Sometimes"

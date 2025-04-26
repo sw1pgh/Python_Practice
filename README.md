@@ -660,4 +660,4 @@ This Repository contains all the codes that I will be learning and writing while
 <br/>  
 
 > Words of Wisdom:
-- "You might not always have the strength to carry on the good work. Sometimes, you will have super tiring days or you will feel the entire will to work has been snatched away from you. In those days,"
+- "You might not always have the strength to carry on the good work. Sometimes, you will have super tiring days or you will feel the entire will to work has been snatched away from you. In those days, you will have to remember why you are working, studying, living."

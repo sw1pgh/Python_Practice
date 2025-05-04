@@ -24,3 +24,7 @@ Constraints:
 -10 <= a, b <= 10
 flag ∈ {True, False} 
 '''
+
+class Solution:
+    def integer_status_checker(self, num_1: int, num_2: int, flag: bool) -> bool:
+        pass

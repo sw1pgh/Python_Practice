@@ -26,5 +26,14 @@ flag ∈ {True, False}
 '''
 
 class Solution:
-    def integer_status_checker(self, num_1: int, num_2: int, flag: bool) -> bool:
-        pass
+    def integer_status_checker(self, a: int, b: int, flag: bool) -> bool:
+        if ((a >= 0 or b >= 0) and flag == False):
+            return True
+        elif((a < 0 and b < 0) and flag == True):
+            return True
+        else:
+            return False
+            
+print(Solution().integer_status_checker(a = 1, b = -1, flag = False))
+print(Solution().integer_status_checker(a = -182, b = -9121, flag = True))
+print(Solution().integer_status_checker(a = 5, b = 3, flag = True))

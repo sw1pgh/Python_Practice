@@ -661,3 +661,4 @@ This Repository contains all the codes that I will be learning and writing while
 
 > Words of Wisdom:
 - "You might not always have the strength to carry on the good work. Sometimes, you will have super tiring days where you will feel the entire will to work has been snatched away from you. In those days, you will have to remember why you are working, studying, living. Once that is crystal clear to you, you are always deemed to find the much needed motivation to never back down from working hard, working for the good, studying for the good, living for the good."
+- "Do not befriend any and everyone you meet, as you never know their intentions."

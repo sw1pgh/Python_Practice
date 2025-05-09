@@ -25,3 +25,7 @@ Only one of them is angry, you are not in trouble.
 Your Task:
 You don't need to take any input. Complete the function friends_in_trouble() and return True or False.
 '''
+
+class Solution:
+    def friends_in_trouble(self, j_angry, s_angry):
+        pass

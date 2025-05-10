@@ -27,5 +27,17 @@ You don't need to take any input. Complete the function friends_in_trouble() and
 '''
 
 class Solution:
-    def friends_in_trouble(self, j_angry, s_angry):
-        pass
+    def friends_in_trouble(self, j_angry: bool, s_angry: bool) -> bool:
+        if (j_angry == True and s_angry == True):
+            print("Since both of them are angry, you are in trouble.")
+            return True
+        elif(j_angry == False and s_angry == False):
+            print("Since both of them are not angry, you are in trouble.")
+            return True
+        else:
+            print("Since either one of them is angry, you are not in trouble.")
+            return True
+        
+Solution().friends_in_trouble(j_angry= True, s_angry=True)
+Solution().friends_in_trouble(j_angry= False, s_angry=False)
+Solution().friends_in_trouble(j_angry= True, s_angry=False)

@@ -36,8 +36,8 @@ class Solution:
             return True
         else:
             print("Since either one of them is angry, you are not in trouble.")
-            return True
+            return False
         
-Solution().friends_in_trouble(j_angry= True, s_angry=True)
-Solution().friends_in_trouble(j_angry= False, s_angry=False)
-Solution().friends_in_trouble(j_angry= True, s_angry=False)
+print(Solution().friends_in_trouble(j_angry= True, s_angry=True))
+print(Solution().friends_in_trouble(j_angry= False, s_angry=False))
+print(Solution().friends_in_trouble(j_angry= True, s_angry=False))

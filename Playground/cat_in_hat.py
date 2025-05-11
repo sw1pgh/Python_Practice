@@ -32,4 +32,19 @@ This is a function problem. You don't need to take any input. Just complete the 
 
 class Solution:
     def cat_hat(self, str: str) -> bool:
-        pass
+        cat_counter = 0
+        hat_counter = 0
+        n = len(str)
+        
+        for i in range(n - 2):  # Only go up to len(str) - 3 to check 3-letter substrings
+            if str[i:i+3] == 'cat':
+                cat_counter += 1
+            elif str[i:i+3] == 'hat':
+                hat_counter += 1
+                
+        return cat_counter == hat_counter
+
+# Test cases
+print(Solution().cat_hat('catinahat'))   # True
+print(Solution().cat_hat('bazingaa'))    # True
+print(Solution().cat_hat('cathatcat'))   # False

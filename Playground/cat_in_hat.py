@@ -30,3 +30,6 @@ Your Task:
 This is a function problem. You don't need to take any input. Just complete the function cat_hat() that takes a string str as input.
 '''
 
+class Solution:
+    def cat_hat(self, str: str) -> bool:
+        pass

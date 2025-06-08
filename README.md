@@ -664,4 +664,4 @@ This Repository contains all the codes that I will be learning and writing while
 - "Do not befriend any and everyone you meet, as you never know their intentions."
 - "You have done whatever was possible to maintain peace,but to no avail. Now perform your duties and do war." - Bhagwan Shri Krishna
 - "A combination of minutes wasted in life may be equal to a total of life wasted if you're not careful."
-- "Hard work beats talent when talent doesn't work hard.""
+- "Hard work beats talent when talent doesn't work hard."

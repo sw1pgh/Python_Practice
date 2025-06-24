@@ -666,3 +666,4 @@ This Repository contains all the codes that I will be learning and writing while
 - "A combination of minutes wasted in life may be equal to a total of life wasted if you're not careful."
 - "Hard work beats talent when talent doesn't work hard."
 - "AI might be the way to go!"
+- "!!!Your family is your biggest blessing. Do never turn your back on them!!!"

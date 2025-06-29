@@ -667,4 +667,4 @@ This Repository contains all the codes that I will be learning and writing while
 - "Hard work beats talent when talent doesn't work hard."
 - "AI might be the way to go!"
 - "!!!Your family is your biggest blessing. Do never turn your back on them!!!"
-- "Times will come in which you will find that everything is going against you, you might even lose the will to live. "
+- "Times will come in which you will find that everything is going against you, you might even lose the will to live. In times like those, remember that you have to look after your family and also remember that people "

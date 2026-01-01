@@ -669,3 +669,4 @@ This Repository contains all the codes that I will be learning and writing while
 - "!!!Your family is your biggest blessing. Do never turn your back on them!!!"
 - "Times will come in which you will find that everything is going against you, you might even lose the will to live. In times like those, remember that you have to look after your family and also remember that people elsewhere might be facing worse fate than you. Have faith in God, in your family and carry on your duties."
 - "Be calm and always be kind to others no matter the circumstances."
+- "HAPPY NEW YEAR 2026 🥳⚡️"
